@@ -1,0 +1,12 @@
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\bin\Debug\net6.0\Domain.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\bin\Debug\net6.0\Domain.pdb
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.sourcelink.json
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\Domain.pdb
+C:\BireyselProjelerim\MahallemdenGelsin\src\mahallemdenGelsin\Domain\obj\Debug\net6.0\ref\Domain.dll

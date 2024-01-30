@@ -1,0 +1,10 @@
+src/corePackages/Core.Application/bin/*
+src/corePackages/Core.Application/obj/*
+src/corePackages/Core.CrossCuttingConcerns/bin/*
+src/corePackages/Core.CrossCuttingConcerns/obj/*
+src/corePackages/Core.Persistence/bin/*
+src/corePackages/Core.Persistence/obj/*
+src/corePackages/Core.Security/bin/*
+src/corePackages/Core.Security/obj/*
+.vs/*
+.vs/MahallemdenGelsin/
