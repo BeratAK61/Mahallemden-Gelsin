@@ -11,7 +11,7 @@
     <readme>README.md</readme>
     <description>Core package for layers in NArchitecture project.</description>
     <tags>Core, CleanArchitecture, CrossCuttingConserns, Exception, ExceptionHandler, Logging, Logger</tags>
-    <repository url="https://github.com/kodlamaio-projects/nArchitecture.Core" />
+    <repository type="git" url="https://github.com/kodlamaio-projects/nArchitecture.Core" commit="8b9b94f81d3e2cbf2234af2fe72585a08271ae4d" />
     <dependencies>
       <group targetFramework="net7.0">
         <dependency id="FluentValidation" version="11.5.2" exclude="Build,Analyzers" />
@@ -31,9 +31,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll" target="lib\net7.0\Core.CrossCuttingConcerns.dll" />
-    <file src="C:\BireyselProjelerim\MgWithNarchc\src\corePackages\docs\n-architecture-logo.png" target="\n-architecture-logo.png" />
-    <file src="C:\BireyselProjelerim\MgWithNarchc\src\corePackages\LICENSE" target="\LICENSE" />
-    <file src="C:\BireyselProjelerim\MgWithNarchc\src\corePackages\README.md" target="\README.md" />
+    <file src="C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll" target="lib\net7.0\Core.CrossCuttingConcerns.dll" />
   </files>
 </package>

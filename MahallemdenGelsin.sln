@@ -3,9 +3,50 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0D154F84-68AF-4991-B872-51795B872FEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "corePackages", "corePackages", "{1FFA06C0-4521-4697-A28F-3352840201DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Persistence", "src\corePackages\Core.Persistence\Core.Persistence.csproj", "{6C97E636-6FDD-4757-BE03-E4507EBB19A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Security", "src\corePackages\Core.Security\Core.Security.csproj", "{7DD5202D-E582-4E8F-96E7-816EECA62950}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Application", "src\corePackages\Core.Application\Core.Application.csproj", "{3BC75A11-94AB-4BEC-AA39-91A0C7B3643E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.CrossCuttingConcerns", "src\corePackages\Core.CrossCuttingConcerns\Core.CrossCuttingConcerns.csproj", "{558C4FB7-B5C5-4498-B5D1-B4515CAB629E}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C97E636-6FDD-4757-BE03-E4507EBB19A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C97E636-6FDD-4757-BE03-E4507EBB19A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C97E636-6FDD-4757-BE03-E4507EBB19A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C97E636-6FDD-4757-BE03-E4507EBB19A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DD5202D-E582-4E8F-96E7-816EECA62950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD5202D-E582-4E8F-96E7-816EECA62950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD5202D-E582-4E8F-96E7-816EECA62950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD5202D-E582-4E8F-96E7-816EECA62950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BC75A11-94AB-4BEC-AA39-91A0C7B3643E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC75A11-94AB-4BEC-AA39-91A0C7B3643E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC75A11-94AB-4BEC-AA39-91A0C7B3643E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC75A11-94AB-4BEC-AA39-91A0C7B3643E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{558C4FB7-B5C5-4498-B5D1-B4515CAB629E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558C4FB7-B5C5-4498-B5D1-B4515CAB629E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558C4FB7-B5C5-4498-B5D1-B4515CAB629E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558C4FB7-B5C5-4498-B5D1-B4515CAB629E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1FFA06C0-4521-4697-A28F-3352840201DB} = {0D154F84-68AF-4991-B872-51795B872FEC}
+		{6C97E636-6FDD-4757-BE03-E4507EBB19A7} = {1FFA06C0-4521-4697-A28F-3352840201DB}
+		{7DD5202D-E582-4E8F-96E7-816EECA62950} = {1FFA06C0-4521-4697-A28F-3352840201DB}
+		{3BC75A11-94AB-4BEC-AA39-91A0C7B3643E} = {1FFA06C0-4521-4697-A28F-3352840201DB}
+		{558C4FB7-B5C5-4498-B5D1-B4515CAB629E} = {1FFA06C0-4521-4697-A28F-3352840201DB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {71302680-D6AE-4EF8-BFE5-C56E4F30381A}

@@ -11,3 +11,16 @@ C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Persistence\obj\Debug
 C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
 C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
 C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.deps.json
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.AssemblyReference.cache
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfo.cs
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.sourcelink.json
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\refint\Core.Persistence.dll
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
+C:\BireyselProjelerim\MahallemdenGelsin\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
