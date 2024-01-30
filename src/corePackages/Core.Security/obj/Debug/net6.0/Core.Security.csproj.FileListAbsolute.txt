@@ -1,0 +1,16 @@
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.deps.json
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.dll
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Security.pdb
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Persistence.dll
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\bin\Debug\net6.0\Core.Persistence.pdb
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.AssemblyReference.cache
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfoInputs.cache
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.AssemblyInfo.cs
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CoreCompileInputs.cache
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.sourcelink.json
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.csproj.CopyComplete
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.dll
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\refint\Core.Security.dll
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\Core.Security.pdb
+C:\BireyselProjelerim\tsArchitecture\src\corePackages\Core.Security\obj\Debug\net6.0\ref\Core.Security.dll

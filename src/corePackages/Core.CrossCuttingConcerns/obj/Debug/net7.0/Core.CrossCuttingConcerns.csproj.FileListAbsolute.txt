@@ -1,0 +1,12 @@
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.deps.json
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\bin\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.AssemblyReference.cache
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.dll
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\refint\Core.CrossCuttingConcerns.dll
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\Core.CrossCuttingConcerns.pdb
+C:\BireyselProjelerim\MgWithNarchc\src\corePackages\Core.CrossCuttingConcerns\obj\Debug\net7.0\ref\Core.CrossCuttingConcerns.dll
